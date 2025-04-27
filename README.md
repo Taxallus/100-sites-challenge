@@ -7,7 +7,7 @@ Follow my journey here! 🚀
 
 | # | Project | Live Demo | Code |
 |:-:|:--------|:---------:|:----:|
-| 1 | Personal Card | [🌐 View Site](https://taxallus.github.io/100-sites-challenge/Site-1/) | [💻 View Code](https://github.com/taxallus/100-sites-challenge/tree/main/Site-1) |
+| 1 | Personal Card | [🌐 View Site](https://Taxallus.github.io/100-sites-challenge/Site-1/) | [💻 View Code](https://github.com/taxallus/100-sites-challenge/tree/main/Site-1) |
 
 ---
 
